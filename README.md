@@ -1,1 +1,1 @@
-# begineer-dapp
+# beginner-dapp
